@@ -8,7 +8,7 @@ async function hack(){
     let api=await fetch(url,{
 headers:
 {
-'Authorization':'Bearer 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'
+'Authorization':'Bearer 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'
 },
 });
      res=await api.json();
